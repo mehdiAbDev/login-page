@@ -9,6 +9,7 @@ body {
     background-color: var(--dim);
     display: grid;
     place-items: center;
+    user-select: none;
 }
 
 /* Heading styles */
